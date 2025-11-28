@@ -1,4 +1,4 @@
-# Campus Food Ordering System
+# Foodie - Food Ordering System
 
 A full-stack web application for ordering food on campus, built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
